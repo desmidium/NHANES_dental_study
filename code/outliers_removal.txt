@@ -1,0 +1,2 @@
+STAR outliers installation https://github.com/EpistasisLab/STAR_outliers
+python -m STAR_outliers --input /demo_lab_quest_nut_binary_2018.txt --index SEQN
